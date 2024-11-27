@@ -1,0 +1,36 @@
+Product: 1 10 - Garage 1, Quantity: 1, Price: 523.77
+, Description: 31 13/16 inch X 84 inch, 1 3/4, TS1000, Swing, Single, TruStile Interior MDF Door, EM- to House 20 Empire Moulding, C-Flat Panel, Bevel Lock Side, RH, 20 Minute Neutral Pressure Fire Min. Rating, Prime, Wedge Fire Label = Machined and Labeled *****Door Machining Details***** Machine Prep = TruStile Standard Configuration Machine Prep = Hinges, Lock Bore Hinges = Prep for Hardware Hinges = Standard Spring Hinges Hinges = NOTE: Only 2 hinges will be Spring type Hinges = Pilot Holes: No Hinges = Brand: TruStile Hinges = Qty: 3 - Size: 4" x 4" - Corners: Square Hinges = Locations: Hinge 1: 7", Hinge 2: 38-1/2", Hinge 3: 70" Hinges = Thickness: 0.130" - Backset: 1/4" Lock Bore = Prep For Hardware Lock Bore = Standard Single Bore Lock Bore = Location (ToD): 48" - Location (BoD): 36" Lock Bore = 2-1/8" Diameter - 2-3/8" On Center Backset - 1" x 2-1/4" Radius Edge Prep - 3-1/2" Edge Bore Depth
+Product: 2 7 - Powder 1, Quantity: 1, Price: 521.73
+, Description: 30 inch X 84 inch, 1 3/4, TS1000, Pocket, Single, TruStile Interior MDF Door, EM- Empire Moulding, C-Flat Panel, LH, Prime, Wedge LVL Stiles = Yes LVL Top/Bottom Rails = Yes Top Wedge = Yes *****Door Machining Details***** Machine Prep = TruStile Modified Configuration Machine Prep = Bottom Guide Prep Bottom Guide = PrepOnly Bottom Guide = Modified Bottom Guide Prep Bottom Guide = Width: 1/4" - Depth: 13/16" Bottom Guide = Backset: None Bottom Guide = Alignment: Center
+Product: 3 1 - Bed 1 1, Quantity: 1, Price: 394.23
+, Description: 32 inch X 84 inch, 1 3/4, TS1000, Slab Only, Single, TruStile Interior MDF Door, EM- Entry Empire Moulding, C-Flat Panel, Prime, Wedge
+Product: 4 2 - Bed 1 1, Quantity: 1, Price: 388.62
+, Description: 30 inch X 84 inch, 1 3/4, TS1000, Slab Only, Single, TruStile Interior MDF Door, EM- Bath Empire Moulding, C-Flat Panel, Prime, Wedge
+Product: 5 18 - Bed 1 1, Quantity: 1, Price: 1,023.06
+, Description: 32 inch X 84 inch (Per Leaf), 1 3/4, TS1000, Sliding, Pair, TruStile Interior MDF Door, Closet EM-Empire Moulding, C-Flat Panel, Prime, Wedge LVL Stiles = Yes LVL Top/Bottom Rails = Yes Top Wedge = Yes
+Product: 6 14 - Office 1, Quantity: 1, Price: 394.23
+, Description: 32 inch X 84 inch, 1 3/4, TS1000, Slab Only, Single, TruStile Interior MDF Door, EM- Entry Empire Moulding, C-Flat Panel, Prime, Wedge
+Product: 7 3 - P. Bed 1, Quantity: 1, Price: 409.53
+, Description: 32 inch X 96 inch, 1 3/4, TS1000, Slab Only, Single, TruStile Interior MDF Door, EM- Entry Empire Moulding, C-Flat Panel, Prime, Wedge
+Product: 8 6 - P. Bath 1, Quantity: 1, Price: 404.94
+, Description: 30 inch X 96 inch, 1 3/4, TS1000, Slab Only, Single, TruStile Interior MDF Door, EM- Toilet Empire Moulding, C-Flat Panel, Prime, Wedge
+Product: 9 8 - P. WIC 1, Quantity: 1, Price: 404.94
+, Description: 30 inch X 96 inch, 1 3/4, TS1000, Slab Only, Single, TruStile Interior MDF Door, EM- Empire Moulding, C-Flat Panel, Prime, Wedge
+Product: 10 13 - Laundry 1, Quantity: 1, Price: 409.53
+, Description: 32 inch X 96 inch, 1 3/4, TS1000, Slab Only, Single, TruStile Interior MDF Door, EM- Empire Moulding, C-Flat Panel, Prime, Wedge
+Product: 11 11 - Bed 3 1, Quantity: 1, Price: 409.53
+, Description: 32 inch X 96 inch, 1 3/4, TS1000, Slab Only, Single, TruStile Interior MDF Door, EM- Entry Empire Moulding, C-Flat Panel, Prime, Wedge
+Product: 12 5 - Bed 3 1, Quantity: 1, Price: 404.94
+, Description: 30 inch X 96 inch, 1 3/4, TS1000, Slab Only, Single, TruStile Interior MDF Door, EM- Bath Empire Moulding, C-Flat Panel, Prime, Wedge
+Product: 13 No # - Bed 3 1, Quantity: 1, Price: 1,044.48
+, Description: 30 inch X 96 inch (Per Leaf), 1 3/4, TS1000, Sliding, Pair, TruStile Interior MDF Door, Closet EM-Empire Moulding, C-Flat Panel, Prime, Wedge LVL Stiles = Yes LVL Top/Bottom Rails = Yes Top Wedge = Yes
+Product: 14 12 - Bed 2 1, Quantity: 1, Price: 409.53
+, Description: 32 inch X 96 inch, 1 3/4, TS1000, Slab Only, Single, TruStile Interior MDF Door, EM- Entry Empire Moulding, C-Flat Panel, Prime, Wedge
+Product: 15 4 - Bed 2 1, Quantity: 1, Price: 404.94
+, Description: 30 inch X 96 inch, 1 3/4, TS1000, Slab Only, Single, TruStile Interior MDF Door, EM- Bath Empire Moulding, C-Flat Panel, Prime, Wedge
+Product: 16 No # - Bed 2 1, Quantity: 1, Price: 1,044.48
+, Description: 30 inch X 96 inch (Per Leaf), 1 3/4, TS1000, Sliding, Pair, TruStile Interior MDF Door, Closet EM-Empire Moulding, C-Flat Panel, Prime, Wedge LVL Stiles = Yes LVL Top/Bottom Rails = Yes Top Wedge = Yes
+Product: 17 1, Quantity: 1, Price: 0.00
+, Description: Manufacturer's Freight for 19 Doors
+
+Total number of subitems: 17
